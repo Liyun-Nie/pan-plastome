@@ -1,0 +1,36 @@
+# Local / OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# R / Python
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets and machine state
+.env
+*.pem
+*.key
+.git-credentials
+
+# Large / private analysis inputs (not shipped)
+data/raw/
+data/00-rawfa/
+data/ref/
+*.fa
+*.fasta
+*.fna
+*.gb
+*.gbk
+*.paf
+
+# Generated outputs
+results/
+*.xlsx
+Rplots.pdf

@@ -1,0 +1,111 @@
+gene_id,functional_group,gene_category
+accD,Acetyl-CoA Carboxylase Subunit,Other Functional Genes
+ccsA,c-type Cytochrome Synthesis Gene,Other Functional Genes
+cemA,Envelope Membrane Protein,Other Functional Genes
+clpP,Protease,Other Functional Genes
+infA,Translation Initiation Factor,Other Functional Genes
+matK,Maturase,Unknown Function Genes
+atpA,ATP Synthase Subunits,Photosynthesis Related
+atpB,ATP Synthase Subunits,Photosynthesis Related
+atpE,ATP Synthase Subunits,Photosynthesis Related
+atpF,ATP Synthase Subunits,Photosynthesis Related
+atpH,ATP Synthase Subunits,Photosynthesis Related
+atpI,ATP Synthase Subunits,Photosynthesis Related
+petA,Cytochrome b/f Complex Subunits,Photosynthesis Related
+petB,Cytochrome b/f Complex Subunits,Photosynthesis Related
+petD,Cytochrome b/f Complex Subunits,Photosynthesis Related
+petG,Cytochrome b/f Complex Subunits,Photosynthesis Related
+petL,Cytochrome b/f Complex Subunits,Photosynthesis Related
+petN,Cytochrome b/f Complex Subunits,Photosynthesis Related
+ndhA,NADH Dehydrogenase Subunits,Photosynthesis Related
+ndhB,NADH Dehydrogenase Subunits,Photosynthesis Related
+ndhC,NADH Dehydrogenase Subunits,Photosynthesis Related
+ndhD,NADH Dehydrogenase Subunits,Photosynthesis Related
+ndhE,NADH Dehydrogenase Subunits,Photosynthesis Related
+ndhF,NADH Dehydrogenase Subunits,Photosynthesis Related
+ndhG,NADH Dehydrogenase Subunits,Photosynthesis Related
+ndhH,NADH Dehydrogenase Subunits,Photosynthesis Related
+ndhI,NADH Dehydrogenase Subunits,Photosynthesis Related
+ndhJ,NADH Dehydrogenase Subunits,Photosynthesis Related
+ndhK,NADH Dehydrogenase Subunits,Photosynthesis Related
+psaA,Photosystem I Subunits,Photosynthesis Related
+psaB,Photosystem I Subunits,Photosynthesis Related
+psaC,Photosystem I Subunits,Photosynthesis Related
+psaI,Photosystem I Subunits,Photosynthesis Related
+psaJ,Photosystem I Subunits,Photosynthesis Related
+psbA,Photosystem II Subunits,Photosynthesis Related
+psbB,Photosystem II Subunits,Photosynthesis Related
+psbC,Photosystem II Subunits,Photosynthesis Related
+psbD,Photosystem II Subunits,Photosynthesis Related
+psbE,Photosystem II Subunits,Photosynthesis Related
+psbF,Photosystem II Subunits,Photosynthesis Related
+psbH,Photosystem II Subunits,Photosynthesis Related
+psbI,Photosystem II Subunits,Photosynthesis Related
+psbJ,Photosystem II Subunits,Photosynthesis Related
+psbK,Photosystem II Subunits,Photosynthesis Related
+psbL,Photosystem II Subunits,Photosynthesis Related
+psbM,Photosystem II Subunits,Photosynthesis Related
+psbN,Photosystem II Subunits,Photosynthesis Related
+psbT,Photosystem II Subunits,Photosynthesis Related
+psbZ,Photosystem II Subunits,Photosynthesis Related
+rbcL,Rubisco Large Subunit,Photosynthesis Related
+rpoA,DNA-dependent RNA Polymerase,Self-Replication Related
+rpoB,DNA-dependent RNA Polymerase,Self-Replication Related
+rpoC1,DNA-dependent RNA Polymerase,Self-Replication Related
+rpoC2,DNA-dependent RNA Polymerase,Self-Replication Related
+rpl14,Ribosomal Large Subunits,Self-Replication Related
+rpl16,Ribosomal Large Subunits,Self-Replication Related
+rpl2,Ribosomal Large Subunits,Self-Replication Related
+rpl20,Ribosomal Large Subunits,Self-Replication Related
+rpl22,Ribosomal Large Subunits,Self-Replication Related
+rpl32,Ribosomal Large Subunits,Self-Replication Related
+rpl33,Ribosomal Large Subunits,Self-Replication Related
+rpl36,Ribosomal Large Subunits,Self-Replication Related
+rrn16,Ribosomal RNA,Self-Replication Related
+rrn23,Ribosomal RNA,Self-Replication Related
+rrn4.5,Ribosomal RNA,Self-Replication Related
+rrn5,Ribosomal RNA,Self-Replication Related
+rps11,Ribosomal Small Subunits,Self-Replication Related
+rps12,Ribosomal Small Subunits,Self-Replication Related
+rps14,Ribosomal Small Subunits,Self-Replication Related
+rps15,Ribosomal Small Subunits,Self-Replication Related
+rps16,Ribosomal Small Subunits,Self-Replication Related
+rps18,Ribosomal Small Subunits,Self-Replication Related
+rps19,Ribosomal Small Subunits,Self-Replication Related
+rps2,Ribosomal Small Subunits,Self-Replication Related
+rps3,Ribosomal Small Subunits,Self-Replication Related
+rps4,Ribosomal Small Subunits,Self-Replication Related
+rps7,Ribosomal Small Subunits,Self-Replication Related
+rps8,Ribosomal Small Subunits,Self-Replication Related
+trnA,Transfer RNA,Self-Replication Related
+trnC,Transfer RNA,Self-Replication Related
+trnD,Transfer RNA,Self-Replication Related
+trnE,Transfer RNA,Self-Replication Related
+trnF,Transfer RNA,Self-Replication Related
+trnG,Transfer RNA,Self-Replication Related
+trnH,Transfer RNA,Self-Replication Related
+trnI,Transfer RNA,Self-Replication Related
+trnK,Transfer RNA,Self-Replication Related
+trnL,Transfer RNA,Self-Replication Related
+trnM,Transfer RNA,Self-Replication Related
+trnN,Transfer RNA,Self-Replication Related
+trnP,Transfer RNA,Self-Replication Related
+trnQ,Transfer RNA,Self-Replication Related
+trnR,Transfer RNA,Self-Replication Related
+trnS,Transfer RNA,Self-Replication Related
+trnT,Transfer RNA,Self-Replication Related
+trnV,Transfer RNA,Self-Replication Related
+trnW,Transfer RNA,Self-Replication Related
+trnY,Transfer RNA,Self-Replication Related
+ycf1,Conserved Open Reading Frames (ycf genes),Unknown Function Genes
+ycf2,Conserved Open Reading Frames (ycf genes),Unknown Function Genes
+ycf3,Conserved Open Reading Frames (ycf genes),Unknown Function Genes
+ycf4,Conserved Open Reading Frames (ycf genes),Unknown Function Genes 
+chlB,Chlorophyll Biosynthesis,Photosynthesis Related
+chlL,Chlorophyll Biosynthesis,Photosynthesis Related  
+chlN,Chlorophyll Biosynthesis,Photosynthesis Related
+psaM,Photosystem I Subunits,Photosynthesis Related
+psb30,Photosystem II Subunits,Photosynthesis Related
+rpl21,Ribosomal Large Subunits,Self-Replication Related
+rpl23,Ribosomal Large Subunits,Self-Replication Related
+ycf15,Conserved Open Reading Frames (ycf genes),Unknown Function Genes 
